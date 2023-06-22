@@ -1,0 +1,27 @@
+body
+{
+color: aqua;
+background: black;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 30px;
+}
+  
+#camera
+{
+    border: 4px dashed aqua; 
+    width: 350px;
+    height: 300px;
+}
+
+
+
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy
+{
+    font-size: 25px;
+    color: magenta;
+}  
+
